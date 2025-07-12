@@ -1,6 +1,6 @@
 # AlgoGenie - DSA Problem Solver
 
-Here you can enter DSA problem and it will provide the solution with explanation.
+Project is about solving DSA problem with explanation.
 
 ## Prerequisites
 
